@@ -1,5 +1,3 @@
-Имея в распоряжении только:
-
 // ​let number = 1;
 // и используя лишь
 // --number   number--  ++number   number++
