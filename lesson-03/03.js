@@ -1,5 +1,5 @@
-​const fruits = ["яблоко", "банан", "апельсин", "манго", "киви", "ананас", "виноград", "груша", "слива", "персик"];
+const fruits = ["яблоко", "банан", "апельсин", "манго", "киви", "ананас", "виноград", "груша", "слива", "персик"];
 
-const result = fruits.slice(1, -2);
+const newFruits = fruits.slice(1, -2);
 
-console.log(result);
+console.log(newFruits);
